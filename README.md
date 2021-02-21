@@ -1,2 +1,2 @@
 # -Huffman_coding
-//Encodes and decodes the file using the Hoffman method.
+//Encodes and decodes the .txt file using the Hoffman method.
